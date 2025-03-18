@@ -1,5 +1,5 @@
 # BlockiFy - Crypto Landing Page  
-A simple and stylish front-end landing page for a fictional crypto trading platform called **BlockiFy**, built using HTML, CSS, and JavaScript.  
+A simple and stylish front-end responsive landing page for a fictional crypto trading platform called **BlockiFy**, built using HTML, CSS, and JavaScript.  
 
 ## 🚀 Features
 - **Hero Section:** A bold introduction with a CTA button.  
